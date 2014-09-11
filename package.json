@@ -1,0 +1,33 @@
+{
+  "name": "co-cassandra",
+  "version": "0.0.1",
+  "description": "Co wrapper for the offical cassandra driver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asafyish/co-cassandra"
+  },
+  "dependencies": {
+    "thunkify": "~2.1.2"
+  },
+  "keywords": [
+    "co",
+    "generators",
+    "coroutine",
+    "cassandra",
+    "cql",
+    "driver"
+  ],
+  "author": "Asaf Yishai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asafyish/co-cassandra/issues"
+  },
+  "homepage": "https://github.com/asafyish/co-cassandra",
+  "engines": {
+    "node": ">=0.11.13"
+  }
+}
